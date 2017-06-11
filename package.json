@@ -1,7 +1,7 @@
 {
-  "name": "timer",
+  "name": "converter",
   "version": "1.0.0",
-  "description": "Electron timer app",
+  "description": "Electron converter app",
   "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server",
